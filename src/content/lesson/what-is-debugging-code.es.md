@@ -147,4 +147,4 @@ He preparado lecciones muy sencillas para depurar los errores más comunes que e
 - Depuración de errores de back-end de scripts de Python.
 - Depuración de errores de back-end de API de Python Flask.
 
-> 📄 Nota: Haga clic en cualquiera de los elementos anteriores para aprender sobre la depuración de cada tecnología.
+> 📄 Nota: Haz clic en cualquiera de los elementos anteriores para aprender sobre la depuración de cada tecnología.
